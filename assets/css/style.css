@@ -2,16 +2,6 @@
     About
 ====================================== */
 
-/*
-    Theme Name: MegaOne
-    Theme URI:
-    Author: Themes Industry
-    Author URI:
-    Description: One Page Parallax Template
-    Tags: one page, multipurpose, parallax, creative, html5
-
- */
-
 /* ===================================
     Table of Content
 ====================================== */
@@ -951,7 +941,7 @@ header .navbar-brand img {
     top: 0;
     bottom: 0;
     /*background: rgba(247, 28, 82, 0.6);*/
-    background-image: url("../../vendor/img/side-menu_bkgr.jpg");
+    background-image: url("../img/side-menu_bkgr.jpg");
     background-size: cover;
     background-position: center;
     z-index: 2032;

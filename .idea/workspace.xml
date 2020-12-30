@@ -2,7 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ae04a9e-6436-46a9-b48e-02c595f2aec8" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-agency/css/ajax-loader.gif.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-agency/css/blog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-agency/css/fonts/slick.eot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-agency/css/fonts/slick.eot﹖.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-agency/css/fonts/slick.svg.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-agency/css/fonts/slick.ttf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-agency/css/fonts/slick.woff.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-agency/css/line-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-agency/css/slick-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-agency/css/slick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design-agency/js/circle-progress.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/css/LineIcons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/css/cubeportfolio.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/css/jquery.fancybox.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/css/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/fonts/revicons/revicons.eot﹖5510888.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/fonts/revicons/revicons.svg﹖5510888.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/fonts/revicons/revicons.ttf﹖5510888.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/fonts/revicons/revicons.woff﹖5510888.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/js/TweenMax.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/js/jquery.cubeportfolio.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/js/jquery.fancybox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/js/jquery.themepunch.revolution.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/js/jquery.themepunch.tools.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/js/morphext.min.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-brands-400.eot" afterPath="$PROJECT_DIR$/assets/fonts/la-brands-400.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-brands-400.svg" afterPath="$PROJECT_DIR$/assets/fonts/la-brands-400.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-brands-400.ttf" afterPath="$PROJECT_DIR$/assets/fonts/la-brands-400.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-brands-400.woff" afterPath="$PROJECT_DIR$/assets/fonts/la-brands-400.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-brands-400.woff2" afterPath="$PROJECT_DIR$/assets/fonts/la-brands-400.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-brands-400﹖.eot" afterPath="$PROJECT_DIR$/assets/fonts/la-brands-400﹖.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-regular-400.eot" afterPath="$PROJECT_DIR$/assets/fonts/la-regular-400.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-regular-400.svg" afterPath="$PROJECT_DIR$/assets/fonts/la-regular-400.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-regular-400.ttf" afterPath="$PROJECT_DIR$/assets/fonts/la-regular-400.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-regular-400.woff" afterPath="$PROJECT_DIR$/assets/fonts/la-regular-400.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-regular-400.woff2" afterPath="$PROJECT_DIR$/assets/fonts/la-regular-400.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-regular-400﹖.eot" afterPath="$PROJECT_DIR$/assets/fonts/la-regular-400﹖.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-solid-900.eot" afterPath="$PROJECT_DIR$/assets/fonts/la-solid-900.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-solid-900.svg" afterPath="$PROJECT_DIR$/assets/fonts/la-solid-900.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-solid-900.ttf" afterPath="$PROJECT_DIR$/assets/fonts/la-solid-900.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-solid-900.woff" afterPath="$PROJECT_DIR$/assets/fonts/la-solid-900.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-solid-900.woff2" afterPath="$PROJECT_DIR$/assets/fonts/la-solid-900.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/fonts/la-solid-900﹖.eot" afterPath="$PROJECT_DIR$/assets/fonts/la-solid-900﹖.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design-agency/js/script.js" afterPath="$PROJECT_DIR$/assets/js/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/css/bundle.min.css" afterPath="$PROJECT_DIR$/assets/css/bundle.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/css/wow.css" afterPath="$PROJECT_DIR$/assets/css/wow.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/LineIcons﹖y2l643.eot" afterPath="$PROJECT_DIR$/assets/fonts/LineIcons﹖y2l643.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/LineIcons﹖y2l643.svg" afterPath="$PROJECT_DIR$/assets/fonts/LineIcons﹖y2l643.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/LineIcons﹖y2l643.ttf" afterPath="$PROJECT_DIR$/assets/fonts/LineIcons﹖y2l643.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/LineIcons﹖y2l643.woff" afterPath="$PROJECT_DIR$/assets/fonts/LineIcons﹖y2l643.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-brands-400.eot" afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-brands-400.svg" afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-brands-400.ttf" afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-brands-400.woff" afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-brands-400.woff2" afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-brands-400﹖.eot" afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400﹖.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-regular-400.eot" afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-regular-400.svg" afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-regular-400.ttf" afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-regular-400.woff" afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-regular-400.woff2" afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-regular-400﹖.eot" afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400﹖.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-solid-900.eot" afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-solid-900.svg" afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-solid-900.ttf" afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-solid-900.woff" afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-solid-900.woff2" afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/fa-solid-900﹖.eot" afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900﹖.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/fonts/revicons﹖5510888.eot" afterPath="$PROJECT_DIR$/assets/fonts/revicons﹖5510888.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/cbp-sprite.png" afterPath="$PROJECT_DIR$/assets/img/cbp-sprite.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/favicon.png" afterPath="$PROJECT_DIR$/assets/img/favicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/ic_skin_combination.png" afterPath="$PROJECT_DIR$/assets/img/ic_skin_combination.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/ic_skin_combination_white.png" afterPath="$PROJECT_DIR$/assets/img/ic_skin_combination_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/ic_skin_dry.png" afterPath="$PROJECT_DIR$/assets/img/ic_skin_dry.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/ic_skin_dry_white.png" afterPath="$PROJECT_DIR$/assets/img/ic_skin_dry_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/ic_skin_normal.png" afterPath="$PROJECT_DIR$/assets/img/ic_skin_normal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/ic_skin_normal_white.png" afterPath="$PROJECT_DIR$/assets/img/ic_skin_normal_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/ic_skin_oil.png" afterPath="$PROJECT_DIR$/assets/img/ic_skin_oil.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/ic_skin_oil_white.png" afterPath="$PROJECT_DIR$/assets/img/ic_skin_oil_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/model_bnr.png" afterPath="$PROJECT_DIR$/assets/img/model_bnr.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/nivea_cream.png" afterPath="$PROJECT_DIR$/assets/img/nivea_cream.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/nivea_products.png" afterPath="$PROJECT_DIR$/assets/img/nivea_products.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/nivea_products_new.png" afterPath="$PROJECT_DIR$/assets/img/nivea_products_new.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/side-menu_bkgr.jpg" afterPath="$PROJECT_DIR$/assets/img/side-menu_bkgr.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/skin_care.png" afterPath="$PROJECT_DIR$/assets/img/skin_care.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/img/skin_types.png" afterPath="$PROJECT_DIR$/assets/img/skin_types.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/js/bundle.min.js" afterPath="$PROJECT_DIR$/assets/js/bundle.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/js/jquery.appear.js" afterPath="$PROJECT_DIR$/assets/js/jquery.appear.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/assets/js/owl.carousel.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/js/parallaxie.min.js" afterPath="$PROJECT_DIR$/assets/js/parallaxie.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/js/wow.min.js" afterPath="$PROJECT_DIR$/assets/js/wow.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,12 +107,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-391">
+              <caret line="468" column="12" lean-forward="false" selection-start-line="468" selection-start-column="12" selection-end-line="468" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -29,6 +123,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/home.html" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -38,7 +140,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="13" />
-    <option name="y" value="59" />
+    <option name="y" value="45" />
     <option name="width" value="1210" />
     <option name="height" value="755" />
   </component>
@@ -58,8 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -72,12 +172,38 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nivea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nivea" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/css" />
+      <recent name="$PROJECT_DIR$/assets/fonts" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -91,6 +217,75 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -101,32 +296,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609285400444</updated>
-      <workItem from="1609285408134" duration="980000" />
+      <workItem from="1609285408134" duration="1870000" />
+      <workItem from="1609287817194" duration="1757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="980000" />
+    <option name="totallyTimeSpent" value="3627000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="13" y="59" width="1210" height="755" extended-state="0" />
+    <frame x="13" y="45" width="1210" height="755" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25428084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1749623" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -141,10 +337,120 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/bundle.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/wow.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50161">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/bundle.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.appear.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/parallaxie.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6877">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/wow.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="468" column="12" lean-forward="false" selection-start-line="468" selection-start-column="12" selection-end-line="468" selection-end-column="12" />
           <folding />
         </state>
       </provider>
