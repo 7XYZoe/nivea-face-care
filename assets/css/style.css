@@ -1326,7 +1326,7 @@ header .navbar-brand img {
         Slider area
 ====================================== */
 .banner-slider {
-    height: 100vh;
+    /*height: 100vh;*/
 }
 
 .banner-slider .banner-slider-row {
@@ -1497,6 +1497,13 @@ header .navbar-brand img {
     border: none;
     border-radius: 10px;
 }
+
+.skin-card {
+    box-shadow: 1px 1px 31px #e6e6e6;
+    border: none;
+    border-radius: 10px;
+}
+
 
 .feature-sec .card .feature-icon {
     display: inline-block;
@@ -3143,7 +3150,7 @@ svg.right-square.team {
     }
 
     .stats-box {
-        width: 60%;
+        /*width: 60%;*/
         margin: auto;
         margin-bottom: 35px;
     }
@@ -3381,3 +3388,68 @@ svg.right-square.team {
 .card-flip:hover .card-back {
     transform: rotateY(0deg);
 }
+
+
+/* ===================================
+   header slider sec(blog style)
+====================================== */
+
+
+.our-blog{
+    background-color: #90e0f6;
+}
+
+.blog-background{
+    background-image: url("../../assets/img/model_bnr.jpg");
+    width: 100%;
+    /*min-height: 800px;*/
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 991px) {
+    .blog-background{
+        background-image: url("../../assets/img/model_scale.jpg");
+        width: 100%;
+        display: block;
+        background-repeat: no-repeat;
+        height: 400px;
+    }
+}
+
+@media (max-width: 600px) {
+    .blog-background{
+        background-image: url("../img/model_mobile.jpg");
+        width: 100%;
+        display: block;
+        background-repeat: no-repeat;
+        height: 300px;
+    }
+
+
+
+.blog-data span{font-size: 20px;font-family: Poppins, "sans-serif"; font-weight: 500;margin-bottom: 10px}
+.blog-data h1{font-size: 55px;font-family: Poppins, "sans-serif"; font-weight: 500;}
+.blog-data p{ margin-top: 40px; margin-bottom: 40px; width: 75%; margin-left:auto; margin-right: auto}
+
+/* button rounded */
+.btn.btn-rounded {border-radius: 50px}
+.btn.btn-rounded.btn-very-small {padding: 2px 23px 1px;}
+.btn.btn-rounded.btn-small {padding: 5px 29px;}
+.btn.btn-rounded.btn-medium {padding: 6px 32px;}
+.btn.btn-rounded.btn-large {padding: 9px 38px;}
+.btn.btn-rounded.btn-extra-large {padding: 12px 45px 13px;}
+
+a {text-decoration: none;
+    font-size: 12px;}
+body {
+    overflow: hidden;
+    overflow-y: visible;
+}
+
+.blue-and-black-btn{font-size: 12px;font-family: 'Roboto', sans-serif;padding: 7px 35px;;color:#ffffff;;font-weight: 500;background-color:#133891;;border:1px solid transparent;border-radius: 0px;-webkit-transition: .8s ease !important;-o-transition: .8s ease !important;transition: .8s ease !important; cursor: pointer}
+.red-and-black-btn:hover{color: #ffffff !important; ;background-color:#000000 !important; border: 1px solid transparent;}
+
+.blue-and-white-btn{font-size: 12px;font-family: 'Roboto', sans-serif;padding: 7px 35px;;color:#ffffff;;font-weight: 500;background-color:#133891;;border:1px solid transparent;border-radius: 0px;-webkit-transition: .8s ease !important;-o-transition: .8s ease !important;transition: .8s ease !important; cursor: pointer}
+.blue-and-white-btn:hover{color:#133891; !important; ;background-color:#FFFFFF !important; border: 1px solid transparent;}
