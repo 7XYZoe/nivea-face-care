@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ae04a9e-6436-46a9-b48e-02c595f2aec8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/nivea_products_new.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bundle.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,17 +71,38 @@
       <workItem from="1609500670120" duration="268000" />
       <workItem from="1609866559933" duration="15742000" />
       <workItem from="1610723268470" duration="407000" />
+      <workItem from="1611063963016" duration="1454000" />
     </task>
+    <task id="LOCAL-00001" summary="single banner">
+      <created>1611064097493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611064097493</updated>
+    </task>
+    <task id="LOCAL-00002" summary="single banner again + files">
+      <created>1611064184890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611064184890</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="single banner" />
+    <MESSAGE value="single banner again + files" />
+    <option name="LAST_COMMIT_MESSAGE" value="single banner again + files" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="328" y="73" key="CommitChangelistDialog2" timestamp="1611064097329">
+    <state x="328" y="73" key="CommitChangelistDialog2" timestamp="1611066041161">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="328" y="73" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1611064097329" />
+    <state x="328" y="73" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1611066041161" />
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1611063977579">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
