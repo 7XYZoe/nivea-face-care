@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ae04a9e-6436-46a9-b48e-02c595f2aec8" name="Default" comment="">
+    <list default="true" id="2ae04a9e-6436-46a9-b48e-02c595f2aec8" name="Default" comment="Products and urls">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
     </list>
@@ -72,7 +72,7 @@
       <workItem from="1609866559933" duration="15742000" />
       <workItem from="1610723268470" duration="407000" />
       <workItem from="1611063963016" duration="1946000" />
-      <workItem from="1611574046666" duration="2876000" />
+      <workItem from="1611574046666" duration="3241000" />
     </task>
     <task id="LOCAL-00001" summary="single banner">
       <created>1611064097493</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611064184890</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Products and urls">
+      <created>1611578292825</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611578292826</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,20 +104,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="single banner" />
     <MESSAGE value="single banner again + files" />
-    <option name="LAST_COMMIT_MESSAGE" value="single banner again + files" />
+    <MESSAGE value="Products and urls" />
+    <option name="LAST_COMMIT_MESSAGE" value="Products and urls" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="328" y="73" key="CommitChangelistDialog2" timestamp="1611066041161">
+    <state x="328" y="73" key="CommitChangelistDialog2" timestamp="1611578292701">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="328" y="73" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1611066041161" />
+    <state x="328" y="73" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1611578292701" />
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1611574049453">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1611574049453" />
-    <state x="505" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611578268936">
+    <state x="505" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611578668261">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="505" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1611578268936" />
+    <state x="505" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1611578668261" />
   </component>
 </project>
