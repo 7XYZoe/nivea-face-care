@@ -71,7 +71,8 @@
       <workItem from="1609500670120" duration="268000" />
       <workItem from="1609866559933" duration="15742000" />
       <workItem from="1610723268470" duration="407000" />
-      <workItem from="1611063963016" duration="1454000" />
+      <workItem from="1611063963016" duration="1946000" />
+      <workItem from="1611574046666" duration="2876000" />
     </task>
     <task id="LOCAL-00001" summary="single banner">
       <created>1611064097493</created>
@@ -103,13 +104,13 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="328" y="73" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1611066041161" />
-    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1611063977579">
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1611574049453">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1611063977579" />
-    <state x="505" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611064171322">
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1611574049453" />
+    <state x="505" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611578268936">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="505" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1611064171322" />
+    <state x="505" y="394" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1611578268936" />
   </component>
 </project>
