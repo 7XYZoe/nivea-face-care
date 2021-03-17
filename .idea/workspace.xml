@@ -20,8 +20,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            <state relative-caret-position="45">
+              <caret line="3" column="81" lean-forward="false" selection-start-line="3" selection-start-column="81" selection-end-line="3" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -157,7 +157,7 @@
       <workItem from="1613051768082" duration="173000" />
       <workItem from="1613056923793" duration="97000" />
       <workItem from="1613057033836" duration="284000" />
-      <workItem from="1615461156308" duration="4308000" />
+      <workItem from="1615461156308" duration="4887000" />
     </task>
     <task id="LOCAL-00001" summary="single banner">
       <created>1611064097493</created>
@@ -215,11 +215,18 @@
       <option name="project" value="LOCAL" />
       <updated>1615565835271</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="New Google analytics tag">
+      <created>1615991211090</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615991211091</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4689000" />
+    <option name="totallyTimeSpent" value="5268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1333" height="837" extended-state="0" />
@@ -287,7 +294,8 @@
     <MESSAGE value="youtube" />
     <MESSAGE value="Google Analytics input" />
     <MESSAGE value="Updated Google analytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Google analytics" />
+    <MESSAGE value="New Google analytics tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Google analytics tag" />
   </component>
   <component name="WindowStateProjectService">
     <state x="328" y="73" key="CommitChangelistDialog2" />
@@ -328,8 +336,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        <state relative-caret-position="45">
+          <caret line="3" column="81" lean-forward="false" selection-start-line="3" selection-start-column="81" selection-end-line="3" selection-end-column="81" />
           <folding />
         </state>
       </provider>
